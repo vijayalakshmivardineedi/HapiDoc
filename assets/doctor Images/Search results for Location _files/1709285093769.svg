@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <g data-name="Layer 2">
+      <path fill="#1fbcb8" d="M12 19a1 1 0 0 1-1-1v-5a1 1 0 0 1 2 0v5a1 1 0 0 1-1 1z" opacity="1" data-original="#7fbde7"/>
+      <path fill="#1fbcb8" d="M14.5 16.5h-5a1 1 0 0 1 0-2h5a1 1 0 0 1 0 2z" opacity="1" data-original="#7fbde7"/>
+      <g fill="#232323">
+        <path d="M18 23H6a3.003 3.003 0 0 1-3-3v-8a4.004 4.004 0 0 1 4-4h6.25a1 1 0 0 1 0 2H7a2.002 2.002 0 0 0-2 2v8a1.001 1.001 0 0 0 1 1h12a1 1 0 0 0 1-1v-8a2.003 2.003 0 0 0-2-2h-.5a1 1 0 0 1 0-2h.5a4.004 4.004 0 0 1 4 4v8a3.003 3.003 0 0 1-3 3zM17.5 7h-11a2.002 2.002 0 0 1-2-2V3a2.002 2.002 0 0 1 2-2h11a2.003 2.003 0 0 1 2 2v2a2.003 2.003 0 0 1-2 2zm-11-4v2h11.002L17.5 3z" fill="#232323" opacity="1" data-original="#232323" class=""/>
+        <path d="M16.5 10a1 1 0 0 1-1-1V7h-7v2a1 1 0 0 1-2 0V6a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1z" fill="#232323" opacity="1" data-original="#232323" class=""/>
+      </g>
+    </g>
+  </g>
+</svg>

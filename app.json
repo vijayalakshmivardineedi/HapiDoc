@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "User1",
+    "slug": "User1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4a4fd3c7-b5ac-495d-8389-c0e836dc23db"
+      }
+    }
+  }
+}
